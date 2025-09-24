@@ -153,8 +153,8 @@ This project is designed for the **Grainger Computing Innovation Prize** with fo
 ## 👥 Team
 
 - **Venkata Sai Roshan** (PM/Cloud) — Project management and cloud deployment
-- **Teammate 2** (Simulation/RL) — Reinforcement learning agent development
-- **Teammate 3** (Computer Vision) — Pedestrian/vehicle counting systems
+- **Kirthiraj bhargavan** (Computer Vision) — Pedestrian/vehicle counting systems
+- **Teammate 3**  (Simulation/RL) — Reinforcement learning agent development
 - **Teammate 4** (Data/Forecast/Explainability) — Forecasting and explainability
 
 ## 🔧 Development
@@ -216,4 +216,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Status**: 🚧 In Development for Grainger Computing Innovation Prize Round 2  
 **Last Updated**: October 2024  
+
 **Version**: 1.0.0
